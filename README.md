@@ -1,6 +1,7 @@
 # Heli_WebGL
 
 ![](resources/heli.gif)
+
 WebGL2를 이용해 헬리콥터 구현
 
 ## 시작하기
