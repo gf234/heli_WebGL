@@ -1,4 +1,4 @@
-# Heli_WebGL
+# heli_WebGL
 
 ![](resources/heli.gif)
 
