@@ -18,6 +18,7 @@ vscode의 liveserver를 이용하여 실행합니다.
 * `↓`: 뒤로 이동
 * `A` or `a`: 위로 이동
 * `Z` or `z`: 아래로 이동
+* `space bar`: 총알 발사
 ### 카메라 이동
 * `Shift`+`←`/`Shift`+`→`: 카메라 회전
 * `Shift`+`↑`/`Shift`+`↓`: 틸트
